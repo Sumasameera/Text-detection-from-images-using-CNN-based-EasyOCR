@@ -35,9 +35,6 @@ We used the [TextOCR Dataset](https://github.com/facebookresearch/textvqa/tree/m
 
 > 🔗 GitHub Collaboration: This project was collaboratively developed and maintained on GitHub. Contributions are visible through commit history and project tasks.
 
-## 📸 Sample Screenshot
-(Add a screenshot of your UI if available)
-
 ## 📝 How to Run
 1. Clone the repo:
     ```bash
